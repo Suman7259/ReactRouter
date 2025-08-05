@@ -37,8 +37,8 @@ export default function Contact() {
                                         d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
                                     />
                                 </svg>
-                                <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    Acme Inc, Street, State, Postal Code
+                                <div className="ml-4 text-md tracking-wide font-semibold w-60">
+                                   Technology Corridor, Infocity, Chandrasekharpur, Bhubaneswar, Odisha 751021
                                 </div>
                             </div>
 
@@ -82,7 +82,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                   https://tat.ac.in
                                 </div>
                             </div>
                         </div>
